@@ -1,0 +1,6 @@
+C:\Users\Julio\Documents\tarea 6.1\TAREA\TAREA\bin\Debug\TAREA.exe.config
+C:\Users\Julio\Documents\tarea 6.1\TAREA\TAREA\obj\Debug\TAREA.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Documents\tarea 6.1\TAREA\TAREA\bin\Debug\TAREA.exe
+C:\Users\Julio\Documents\tarea 6.1\TAREA\TAREA\bin\Debug\TAREA.pdb
+C:\Users\Julio\Documents\tarea 6.1\TAREA\TAREA\obj\Debug\TAREA.exe
+C:\Users\Julio\Documents\tarea 6.1\TAREA\TAREA\obj\Debug\TAREA.pdb
